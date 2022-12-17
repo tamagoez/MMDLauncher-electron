@@ -1,0 +1,44 @@
+[
+  {
+    "name": "MikuMikuDance_v932x64.zip",
+    "title": "MikuMikuDance v932 x64",
+    "slug": "MMD",
+    "type": "mmd",
+    "sha1": "3a4ac81143b2c140df6ca4bcbe25aa2bdaf47d88"
+  },
+  {
+    "name": "MikuMikuDance_v932x64.zip",
+    "title": "MikuMikuEffect x64 ver0.37",
+    "slug": "MME",
+    "type": "plugin",
+    "sha1": "c9304108d61517e9ba47e05118dda1df6063c14c"
+  },
+  {
+    "name": "MMDPlugin_v0.41_x64zip",
+    "title": "MMDPlugin v0.41 x64",
+    "slug": "MMDPlugin",
+    "type": "plugin",
+    "sha1": "682cc15082b3db2cff6808480d12f4e92413e085"
+  },
+  {
+    "name": "PmxEditor_0273.zip",
+    "title": "PmxEditor v0273",
+    "slug": "PmxEditor",
+    "type": "pmxeditor",
+    "sha1": "e142349cbc3b3daf7ed062e88b39169645750039"
+  },
+  {
+    "name": "MMAccel_2_0_8.zip",
+    "title": "MMAccel V2.08",
+    "slug": "MMAccel2",
+    "type": "plugin",
+    "sha1": "854ab2a7151d0c7a791c0c38f7d5d1e2a97b505c"
+  },
+  {
+    "name": "MMAccel_64_v1_60.zip",
+    "title": "MMAccel v1.60 x64",
+    "slug": "MMAccel1",
+    "type": "plugin",
+    "sha1": "aa89b9c2474d8227ca2b6ccd0120a38a491e40aa"
+  }
+]

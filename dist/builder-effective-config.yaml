@@ -1,0 +1,18 @@
+directories:
+  output: dist
+  buildResources: build
+productName: MMDLauncher
+files:
+  - filter:
+      - assets/**/*
+      - src/**/*
+      - package.json
+      - yarn.lock
+      - dist/**/*
+win:
+  icon: assets/icon_rinlen.ico
+  target: nsis
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+electronVersion: 22.0.0
